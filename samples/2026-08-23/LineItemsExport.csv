@@ -1,0 +1,15 @@
+Order ID,Order Date,Order Employee Name,Item Name,Item ID,Item Total,Quantity,Refunded,Order Payment State,Note,Tax Removed
+ORD001,2026-08-23,James,TATTOO JAMES,TSKU001,800.00,1,false,PAID,,false
+ORD002,2026-08-23,Genesis,TATTOO-Genesis,TSKU002,450.00,1,false,PAID,,false
+ORD003,2026-08-23,Phil Q,Lobe Piercing,ITM100,30.00,1,false,PAID,,false
+ORD003,2026-08-23,Phil Q,TITANIUM LS PUSHPIN BASE 16G 3/8,ITM101,35.00,1,false,PAID,,false
+ORD004,2026-08-23,Phil Q,INSERTION,ITM102,10.00,1,false,PAID,,false
+ORD005,2026-08-23,Sam,JUNE STUD,ITM103,25.00,1,false,PAID,,false
+ORD006,2026-08-23,Sam,NEILMED SPRAY,ITM104,15.00,1,false,PAID,,false
+ORD007,2026-08-23,Sam,14K GEM END,ITM105,60.00,1,false,PAID,,false
+ORD008,2026-08-23,Phil Q,Custom Item,,40.00,1,false,PAID,,false
+ORD009,2026-08-23,Phil Q,for rook,,30.00,1,false,PAID,,false
+ORD010,2026-08-23,Phil Q,APPOINTMENT DEPOSIT,DEP001,50.00,1,false,PAID,,false
+ORD011,2026-08-23,Sam,CLICKER-GP-18g-GEM,ITM106,20.00,1,false,PAID,,false
+ORD012,2026-08-23,Phil Q,Lobe Piercing,ITM100,30.00,1,true,PAID,refunded,false
+ORD013,2026-08-23,Sam,Bracelet,ITM107,45.00,1,false,OPEN,,false

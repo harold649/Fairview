@@ -1,0 +1,16 @@
+# Adrenaline unified QB Item dictionary (locked, append-only)
+
+## 2026-06-01 — Initial load
+
+| Item Name | QB Item | Date | Basis |
+|---|---|---|---|
+| JUNE STUD | Piercing:Stud Piercing | 2026-06-01 | legacy stud rule |
+| ROOK CZ 16G | Piercing:Stud Piercing | 2026-06-01 | legacy stud rule |
+| TITANIUM STUD 16G | Bodyjewelry:Titanium Bodyjewelry | 2026-06-01 | titanium overrides stud |
+| NOSE STUD | Bodyjewelry | 2026-06-15 | already correct |
+
+## 2026-07-12 — Stud Piercing elimination (partial, only some swept)
+
+| Item Name (exact) | OLD QB Item | NEW QB Item | Confirmed |
+|---|---|---|---|
+| ROOK CZ 16G | Piercing:Stud Piercing | Bodyjewelry | 2026-07-12 |
